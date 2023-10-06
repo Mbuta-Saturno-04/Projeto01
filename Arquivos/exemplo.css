@@ -1,0 +1,29 @@
+div {
+  gap: 16px;
+  padding: 16px;
+  border: 1px solid gray;
+}
+
+#principal {
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+}
+
+header {
+   display: flex;
+   column-gap: 16px;
+}
+
+div {
+   display: flex;
+}
+
+
+#primeiro {
+   flex-direction: column;
+}
+
+#B{
+   flex-grow: 1;
+}
